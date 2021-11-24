@@ -7,5 +7,5 @@ You can download the instance from https://www.sintef.no/projectweb/top/vrptw/so
 
 You can downoad the result from https://www.sintef.no/contentassets/adf48e65e3a84dd6871eb7586707675d/c101.txt
 
-
+Authors: Geir Hasle, Oddvar Kloster solved instance C101 in December 2003. 
 
